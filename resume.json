@@ -1,0 +1,54 @@
+
+{
+  "name": "Your Name Here",
+  "title": "AI Engineer",
+  "contact": {
+    "phone": "123-456-7890",
+    "email": "youremail@email.com",
+    "portfolio": "https://yourportfolio.com"
+  },
+  "summary": "I am a highly motivated and results-oriented AI Engineer with a strong background in pattern recognition, neural networks, software development, and natural language processing (NLP). I have a proven track record of developing and implementing innovative AI solutions to solve complex problems. I am passionate about using AI to make a positive impact on the world.",
+  "skills": {
+    "frontend": [],
+    "uiux": [],
+    "responsive": [],
+    "api": ["REST APIs", "GraphQL"],
+    "versionControl": ["Git", "GitHub"],
+    "collaboration": ["Agile methodologies", "Scrum", "Kanban"]
+  },
+  "experience": [
+    {
+      "company": "AGIL f(x)",
+      "location": "Gandhinagar, Gujarat, India",
+      "role": "AI Engineer",
+      "startDate": "2023-08-01",
+      "endDate": "Present",
+      "responsibilities": [
+        "Developed and implemented AI solutions for pattern recognition, neural networks, NLP, and software development.",
+        "Worked with clients to understand their needs and develop AI solutions that meet their requirements.",
+        "Collaborated with a team of工程师s to design and develop AI systems.",
+        "Conducted research on the latest AI technologies and frameworks.",
+        "Presented findings and recommendations to clients and stakeholders."
+      ]
+    }
+  ],
+  "education": {
+    "university": "Your University Name Here",
+    "location": "Your City, Your State",
+    "degree": "Bachelor of Science in Computer Science",
+    "graduationDate": "2023-05-01",
+    "relevantCoursework": ["Artificial Intelligence", "Machine Learning", "Deep Learning", "Natural Language Processing", "Software Development"]
+  },
+  "projects": [
+    {
+      "name": "AI-powered chatbot for customer service",
+      "description": "Developed an AI-powered chatbot that can answer customer questions and resolve issues, improving customer satisfaction and reducing support costs."
+    },
+    {
+      "name": "Image recognition system for medical diagnosis",
+      "description": "Developed an image recognition system that can help doctors diagnose diseases more accurately and efficiently."
+    }
+  ],
+  "certifications": [],
+  "references": "Available upon request"
+}
